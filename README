@@ -1,0 +1,9 @@
+This is fork of the evopix orm-mptt module available here: https://github.com/evopix/orm-mptt
+Sorry for not forking directly, on the beginning I didn't think about putting this on the github.
+
+While evopix orm-mptt sticks with KO3.0 I have made an attempt to make a module working with KO3.1.
+I have dealt with some bugs, and added some more features as well.
+
+The code isn't perfect yet.
+
+Any comments are welcome!
